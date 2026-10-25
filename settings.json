@@ -2,25 +2,25 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "DortiMCbot",
-    "password": "",
+    "password": "DortiiMCbot",
     "type": "offline"
   },
   "server": {
     "ip": "dortimc.aternos.me",
     "port": 34484,
-    "version": "",
+    "version": "1.21.4",
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": -1671,
+    "y": 65,
+    "z": 1837
   },
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "DortiMCBot"
+      "password": "DortiiMCbot"
     },
     "anti-afk": {
       "enabled": true,
